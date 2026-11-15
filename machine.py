@@ -1,5 +1,3 @@
-import os
-os.system("cls")
 import math
 
 def evaluate(c, d, p, q, depth):
